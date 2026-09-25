@@ -19,7 +19,8 @@ I specialize in creating end-to-end data pipelines, developing machine learning 
 
 Below you will find a selection of my projects. Each project links to a detailed breakdown of the problem, the solution, the architecture, and the codebase.
 
-- [**Project Template**](projects/project-template/): An example of how my projects are structured. (More projects coming soon!)
+- [**Customer Churn Prediction**](projects/customer-churn-prediction/): An end-to-end Machine Learning pipeline demonstrating Data Engineering and MLOps principles to predict customer churn.
+- [**Project Template**](projects/project-template/): An example of how my projects are structured.
 
 ## Contact
 
