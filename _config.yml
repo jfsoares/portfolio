@@ -1,0 +1,6 @@
+title: Data & AI Engineering Portfolio
+description: A showcase of my Data and AI Engineering projects.
+theme: jekyll-theme-minimal
+markdown: kramdown
+plugins:
+  - jekyll-feed
